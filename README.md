@@ -1,3 +1,5 @@
+![make-the-ai-judge-feel-brave-20261121](assets/preview.png)
+
 # make-the-ai-judge-feel-brave-20261121 — a text that leaves its reader braver
 
 One short text written to relax the AI judge reading it, entered in the make.fun make-the-ai-judge-feel-brave-20261121-0302 bounty, paid in USDC.
